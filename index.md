@@ -22,6 +22,10 @@ Here are some of my hobbies:
 2. Baking
 3. Working out
 
+What shows I like:
+- Breaking Bad
+- Attack on Titan
+
 My TODO list this week:
 
 - [ ] Finish CSE110 lab 1
