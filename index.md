@@ -13,3 +13,9 @@ This is a code block.
 [This is my LinkedIn](www.linkedin.com/in/esther-xiong)
 
 [This is the README file](README.md)
+
+Here are some of my hobbies:
+
+1. Watching shows
+2. Baking
+3. Working out
