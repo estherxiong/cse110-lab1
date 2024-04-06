@@ -1,5 +1,7 @@
 # Esther Xiong's User Page
 
+[Check what I'm up to today](#todo)
+
 ## Who am I?
 
 !["^0^"](https://i.imgur.com/sb75co7.jpeg)
@@ -28,7 +30,7 @@ What shows I like:
 - Breaking Bad
 - Attack on Titan
 
-My TODO list this week:
+### My TODO list this week: {#todo}
 
 - [ ] Finish CSE110 lab 1
 - [ ] Check on ACM order
