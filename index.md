@@ -2,6 +2,8 @@
 
 ## Who am I?
 
+![^0^](https://i.imgur.com/sb75co7.jpeg)
+
 **Hi!** I am a third year at UCSD.
 
 > This is a quote.
