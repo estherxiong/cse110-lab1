@@ -8,6 +8,8 @@
 
 > This is a quote.
 
+This is `inline code`.
+
 ```
 This is a code block.
 ```
