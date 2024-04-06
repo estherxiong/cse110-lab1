@@ -19,3 +19,9 @@ Here are some of my hobbies:
 1. Watching shows
 2. Baking
 3. Working out
+
+My TODO list this week:
+
+- [ ] Finish CSE110 lab 1
+- [ ] Check on ACM order
+- [X] Get groceries
