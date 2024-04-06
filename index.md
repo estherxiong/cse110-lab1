@@ -12,4 +12,4 @@ This is a code block.
 
 [This is my LinkedIn](www.linkedin.com/in/esther-xiong)
 
-[This is the README file](readme.md)
+[This is the README file](README.md)
